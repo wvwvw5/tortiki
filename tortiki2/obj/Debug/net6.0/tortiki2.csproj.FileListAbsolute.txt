@@ -1,0 +1,14 @@
+C:\Users\ekono\source\repos\tortiki2\tortiki2\bin\Debug\net6.0\tortiki2.exe
+C:\Users\ekono\source\repos\tortiki2\tortiki2\bin\Debug\net6.0\tortiki2.deps.json
+C:\Users\ekono\source\repos\tortiki2\tortiki2\bin\Debug\net6.0\tortiki2.runtimeconfig.json
+C:\Users\ekono\source\repos\tortiki2\tortiki2\bin\Debug\net6.0\tortiki2.dll
+C:\Users\ekono\source\repos\tortiki2\tortiki2\bin\Debug\net6.0\tortiki2.pdb
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\tortiki2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\tortiki2.AssemblyInfoInputs.cache
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\tortiki2.AssemblyInfo.cs
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\tortiki2.csproj.CoreCompileInputs.cache
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\tortiki2.dll
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\refint\tortiki2.dll
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\tortiki2.pdb
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\tortiki2.genruntimeconfig.cache
+C:\Users\ekono\source\repos\tortiki2\tortiki2\obj\Debug\net6.0\ref\tortiki2.dll
